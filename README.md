@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ataj Singh</h1>
-<h3 align="center">A Final Year CS Senior with interest in FrontEnd Development and Data Analytics.</h3>
+<h3 align="center">A computer science graduate working as a software engineer for Capgemini India. My work involves writing automation scripts and data analytics. Also I am developing my frontend skills as a side hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mambawolf&label=Profile%20views&color=0e75b6&style=flat" alt="mambawolf" /> </p>
 
