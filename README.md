@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ataj Singh</h1>
-<h3 align="center">A CSE graduate working as a Senior analyst for Capgemini India. My work involves writing automation scripts and data analytics. I love designs and I am currently developing my frontend skills.</h3>
+<h3 align="center">A CSE graduate working as a Senior analyst for Capgemini India. My work involves developing data intensive applications for Banking sector. I love designs and I am currently developing my frontend skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mambawolf&label=Profile%20views&color=0e75b6&style=flat" alt="mambawolf" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with my new OpenCV project in Health domain.
+- 🤝 I’m looking for and open to any collaboration.
 
 - 📫 How to reach me **atajsingh318@gmail.com**
 
