@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ataj Singh</h1>
-<h3 align="center">A CSE graduate working as a Senior analyst for Capgemini India. My work involves developing data intensive applications for Banking sector. I love designs and I am currently developing my frontend skills.</h3>
+<h1 align="center">Hi, I'm Ataj Singh</h1>
+<h3 align="center">I'm a full-stack developer with a strong focus on front-end engineering. As a creative developer, I specialize in building dynamic, user-friendly interfaces and seamless user experiences. Explore my projects to see how I blend creativity with technical expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mambawolf&label=Profile%20views&color=0e75b6&style=flat" alt="mambawolf" /> </p>
 
