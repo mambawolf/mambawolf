@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/singhataj" target="blank"><img src="https://img.shields.io/twitter/follow/singhataj?logo=twitter&style=for-the-badge" alt="singhataj" /></a> </p>
 
-- 🔭 I’m currently exploring the world of APIs
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m learning **react-three-fiber**
 
 - 🤝 I’m looking for and open to any collaboration.
 
